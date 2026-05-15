@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 105
+    },
+    "description": "Infinite Villages everywhere! Supports 1.21 - 26.1.2"
+  }
+}
+
