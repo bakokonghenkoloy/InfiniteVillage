@@ -16,7 +16,8 @@ Select **World Type: Superflat**.
 Go to **Customize -> Presets** and paste this **exact** code into the box:
 `minecraft:bedrock,2*minecraft:dirt,minecraft:grass_block;minecraft:plains`
 
-*(If you don't do this, the biome will be "Minecraft:Plains" by default, which is good, but if you leave it as "Classic Flat", no villages will spawn maybe!)*
+*(If you don't do this, the biome will be "Minecraft:Plains" by default, which is good, but if you leave it as "Classic Flat", no villages will spawn maybe!  
+Or leave it default if Minecraft already offered you one)*
 
 ### 3. Add the Datapack
 Click **Data Packs**, drag the zip file in, and ensure it is on the **Selected** (right) side!
