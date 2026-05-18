@@ -43,3 +43,19 @@ If not... Then do this: `/datapack enable "file/Villages Only World v1.2.zip"` t
 *   **Format:** Hybrid `pack.mcmeta` supporting formats 48 to 105
 
 Heavily inspired by my thoughts lol and there's one for [Planet Minecraft](https://www.planetminecraft.com/data-pack/the-infinite-village/) as a great alternative for this!
+
+---
+## Devlog
+
+### Alpha v1.0 — May 15, 2026
+- Yes indeed! The first release of DPv1.0!
+- But not in release channel, still in alpha, but i guess it works! Fully tested this in 26.1.2 Minecraft Java in Oracle GraalVM OpenJDK 25.0.3, soon it'll be supporting all 1.21.x versions too!
+- Optional Resource Pack that's required for you to use lmao: [Grox Meme Villagers](https://modrinth.com/resourcepack/grox-meme-villagers) for experimentally perfectly paired world!
+
+### Alpha v1.1 — May 15, 2026
+- Just a little bit of changes
+
+### Alpha v1.2 — May 16, 2026
+- Yup
+- I legit swear it worked for the last time in Minecraft Java Vanilla 26.1.2 and released it thinking it worked in 26.1.2 meaning it'll be the same too as well for all previous versions in 26.x in my Datapack Version DPv1.0-alpha to see whether or not it works.. and yet something might've affected it to be incompatible..? Try other versions like in 1.21.11 or in 1.21 and other version of my Datapack if it works or maybe use the fallback method like use my old original DPv1.0-alpha release of this datapack(that's the time it worked but then when i update it to DPv1.2 something wrong happens..) if it's unstable and I'll have to update it to DPv1.3 myself then..
+- My huge apoligies when you try this datapack thinking it'll legitimately work and yet it's not.. tried the DPv1.0 in 26.1.2 Minecraft Java.. it worked for just a brief moment... i hope i'll try my best to make it work in all works from versions from 1.21 up to 26.1.2!
